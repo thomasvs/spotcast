@@ -77,6 +77,8 @@ spotcast:
 
 ## Call the service
 
+The service to call is spotcast.start
+
 #### start playback on a device with default account
 ```
 {
